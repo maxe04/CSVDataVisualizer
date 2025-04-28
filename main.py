@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-from tabulate import tabulate
 
 
 st.title("CSV Data Visualizer")
