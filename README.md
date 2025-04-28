@@ -3,7 +3,7 @@
 Basic Streamlit application to visualize CSV datasets.
 <br />
 <h2>What I've learned</h2>
-<p>I created this project to learn the basics of Pandas and Streamlit, and to understand how the libraries work together.</p>
+<p>I created this project to learn the basics of Pandas and Streamlit, to understand how the libraries work together and how to deploy streamlit applications.</p>
 
 <h2>Link</h2>
 https://basic-csv-data-visualizer-maxe04.streamlit.app/
