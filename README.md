@@ -24,7 +24,7 @@ https://basic-csv-data-visualizer-maxe04.streamlit.app/
 
 <p align="center">
 Demo: <br/>
-<img src="https://i.imgur.com/UMbhLrx.gif" height="75%" width="75%" alt="Adding Student"/>
+<img src="https://i.imgur.com/UMbhLrx.gif" height="75%" width="75%" alt="demo"/>
 <br />
 <br />
 
