@@ -10,15 +10,12 @@ https://basic-csv-data-visualizer-maxe04.streamlit.app/
 <br />
 
 
-<h2>Tools Used</h2>
+## Tools Used
 
-- <b>Python</b>
-- <b>Streamlit library</b>
-- <b>Pandas library</b>
 
-<h2>Environments Used</h2>
-
-- <b>PyCharm</b>
+- **Language**: Python
+- **Libraries**: Streamlit, Pandas
+- **Environment**: Pycharm
 
 <h2>App Walkthrough:</h2>
 
